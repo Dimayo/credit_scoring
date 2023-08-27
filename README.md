@@ -15,8 +15,10 @@
 ### Methods Used
 * Data preparation
 * Exploratory analysis
-* Data Visualization
-* Machine Learning
+* Class balancing
+* Feature selection
+* Data visualization
+* Machine learning
 
 ## Project Description
 
