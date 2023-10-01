@@ -35,7 +35,7 @@ data = data.drop_duplicates(subset=data.columns.difference(['id']))
 ```
 df_train, df_test = train_test_split(data, stratify=data['flag'], test_size=0.3, random_state=42)
 ```
-Т.к целевой признак не сбалансирован был применен метод downsapling:
+Т.к целевой признак не сбалансирован был применен метод downsampling:
 ```
 df_min = df_train[df_train['flag'] == 1]
 df_maj = df_train[df_train['flag'] == 0]
