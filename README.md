@@ -1,5 +1,5 @@
 # Модель кредитного риск-менеджмента
-https://github.com/Dimayo/credit_scoring/blob/main/scoring_model.ipynb<br>
+[Код проекта в jupyter notebook](https://github.com/Dimayo/credit_scoring/blob/main/scoring_model.ipynb)<br>
 Библиотеки python: pandas, numpy, matplotlib, sklearn, joblib 
 
 ## Цель проекта
